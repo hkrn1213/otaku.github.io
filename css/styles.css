@@ -31,9 +31,6 @@ img{
   opacity: 1;
   transform: none;
 }
-:target{
-    scroll-padding-top: 7rem;
-}
 .marker{
   background:linear-gradient(transparent 70%, rgb(255, 246, 119) 0%);
 }
