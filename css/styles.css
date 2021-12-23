@@ -37,6 +37,19 @@ img{
 .marker{
   background:linear-gradient(transparent 70%, rgb(255, 246, 119) 0%);
 }
+section{
+  padding-top: 40px;
+}
+/* セクションとプロフィールのh1 */
+section h1, .profile h1{
+  font-size: 2rem;
+  border-left: 1rem solid  rgba(156, 226, 243);
+  width: 30rem;
+  background-color:rgba(255, 255, 255, 0.8) ;
+  padding:1.3rem 1rem ;
+  box-shadow: 0 5px 5px rgb(117, 169, 182);
+  margin-top: 30px;
+}
 /* ヘッダー */
 header {
   width: 100%;
@@ -162,16 +175,6 @@ nav ul{
 }
 .overlay.show li:nth-child(6){
   transition: .6s;
-}
-/* セクションとプロフィールのh1 */
-section h1, .profile h1{
-  font-size: 2rem;
-  border-left: 1rem solid  rgba(156, 226, 243);
-  width: 30rem;
-  background-color:rgba(255, 255, 255, 0.8) ;
-  padding:1.3rem 1rem ;
-  box-shadow: 0 5px 5px rgb(117, 169, 182);
-  margin-top: 30px;
 }
 /* チェックボックス */
 h2{
