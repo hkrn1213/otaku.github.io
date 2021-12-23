@@ -1,6 +1,7 @@
 /* 共通 */
 html{
   font-size: 10px;
+  scroll-padding-top: 7rem;
 }
 body{
   font-family: "ヒラギノ丸ゴ ProN","Hiragino Maru Gothic ProN",sans-serif;
