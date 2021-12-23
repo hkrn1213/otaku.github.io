@@ -38,7 +38,7 @@ img{
   background:linear-gradient(transparent 70%, rgb(255, 246, 119) 0%);
 }
 section{
-  padding-top: 40px;
+  padding-top: 20px;
 }
 /* セクションとプロフィールのh1 */
 section h1, .profile h1{
