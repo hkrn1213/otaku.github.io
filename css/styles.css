@@ -9,7 +9,6 @@ body{
   background-repeat:repeat;
   background-size: contain;
   color:rgb(117, 85, 3) ;
-  scroll-padding-top: 7rem;
 }
 h1{
   color: rgb(117, 85, 3);
@@ -33,7 +32,7 @@ img{
   transform: none;
 }
 :target{
-    scroll-margin-top: 100px;
+    scroll-padding-top: 100px;
 }
 .marker{
   background:linear-gradient(transparent 70%, rgb(255, 246, 119) 0%);
