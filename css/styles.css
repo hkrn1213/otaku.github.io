@@ -344,8 +344,7 @@ footer{
   }
   .menu {
     position:fixed;
-    right: 0;
-    margin-top:100px;  
+    right: 0; 
     padding: 5rem 1rem;
   }
   .menu a{
