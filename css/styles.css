@@ -342,12 +342,11 @@ footer{
   .sp-menu{
     display: none;
   }
-  .menu {
+   .menu {
     position:fixed;
     right: 0;
-    margin: 0;  
+    margin-top:100px;  
     padding: 5rem 1rem;
-    margin:3rem ;
   }
   .menu a{
     font-size: 1.3rem;
