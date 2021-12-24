@@ -277,7 +277,7 @@ div>#text{
   border-top: dashed 2px rgb(117, 85, 3);
   border-bottom: dashed 2px rgb(117, 85, 3);
   background-color: rgba(255, 255, 255, 0.8);
-  padding: .5rem;
+  padding: .5rem 1rem;
 }
 /* フッターなど */
 .top,footer{
