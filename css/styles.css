@@ -361,7 +361,8 @@ footer{
     font-size: 3rem;
   }
   main {
-    margin-right: 35%;
+     main{
+    width: 35%;
   }
 }
 
