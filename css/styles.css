@@ -366,6 +366,9 @@ footer{
   main {
     margin-right: 35%;
   }
+  .unit>P{
+    width: 400px;
+  }
 }
 
 
